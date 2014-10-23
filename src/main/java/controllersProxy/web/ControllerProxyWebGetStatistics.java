@@ -1,5 +1,7 @@
 package controllersProxy.web;
 
-public class ControllerProxyWebGetStatistics {
+import controllers.ControllerGetStatistics;
+
+public class ControllerProxyWebGetStatistics implements ControllerGetStatistics{
 
 }

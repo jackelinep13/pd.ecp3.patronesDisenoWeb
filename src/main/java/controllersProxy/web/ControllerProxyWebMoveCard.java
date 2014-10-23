@@ -1,5 +1,7 @@
 package controllersProxy.web;
 
-public class ControllerProxyWebMoveCard {
+import controllers.ControllerCreateRound;
+
+public class ControllerProxyWebMoveCard implements ControllerCreateRound{
 
 }
