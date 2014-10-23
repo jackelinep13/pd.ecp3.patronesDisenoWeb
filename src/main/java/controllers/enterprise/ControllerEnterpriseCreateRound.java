@@ -1,5 +1,7 @@
 package controllers.enterprise;
 
-public interface ControllerEnterpriseCreateRound {
+import controllers.ControllerCreateRound;
+
+public class ControllerEnterpriseCreateRound implements ControllerCreateRound{
 
 }

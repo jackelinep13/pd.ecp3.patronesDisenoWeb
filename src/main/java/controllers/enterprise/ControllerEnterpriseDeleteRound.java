@@ -1,5 +1,7 @@
 package controllers.enterprise;
 
-public interface ControllerEnterpriseDeleteRound {
+import controllers.ControllerDeleteRound;
+
+public class ControllerEnterpriseDeleteRound implements ControllerDeleteRound{
 
 }

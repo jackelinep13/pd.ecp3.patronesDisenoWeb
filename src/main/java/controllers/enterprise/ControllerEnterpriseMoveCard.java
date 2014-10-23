@@ -1,5 +1,7 @@
 package controllers.enterprise;
 
-public interface ControllerEnterpriseMoveCard {
+import controllers.ControllerMoveCard;
+
+public class ControllerEnterpriseMoveCard implements ControllerMoveCard{
 
 }

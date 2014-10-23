@@ -1,5 +1,7 @@
 package controllers.enterprise;
 
-public interface ControllerEnterpriseLogin {
+import controllers.ControllerLogin;
+
+public class ControllerEnterpriseLogin implements ControllerLogin {
 
 }
