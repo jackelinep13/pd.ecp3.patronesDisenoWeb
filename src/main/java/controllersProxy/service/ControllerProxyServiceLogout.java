@@ -1,4 +1,4 @@
-package controllerProxy.service;
+package controllersProxy.service;
 
 import controllers.ControllerLogout;
 
