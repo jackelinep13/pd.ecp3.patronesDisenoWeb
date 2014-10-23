@@ -1,5 +1,5 @@
 package controllers.enterprise;
 
-public class ControllerEnterpriseDeleteRound {
+public interface ControllerEnterpriseDeleteRound {
 
 }

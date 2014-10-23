@@ -1,5 +1,5 @@
 package controllers.enterprise;
 
-public class ControllerEnterpriseMoveCard {
+public interface ControllerEnterpriseMoveCard {
 
 }

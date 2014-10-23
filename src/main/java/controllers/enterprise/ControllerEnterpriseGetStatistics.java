@@ -1,5 +1,5 @@
 package controllers.enterprise;
 
-public class ControllerEnterpriseGetStatistics {
+public interface ControllerEnterpriseGetStatistics {
 
 }
