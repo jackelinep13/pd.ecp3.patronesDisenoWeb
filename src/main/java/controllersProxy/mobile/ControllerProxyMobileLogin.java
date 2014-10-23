@@ -1,5 +1,7 @@
 package controllersProxy.mobile;
 
-public class ControllerProxyMobileLogin {
+import controllers.ControllerLogin;
+
+public class ControllerProxyMobileLogin implements ControllerLogin {
 
 }
